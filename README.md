@@ -49,6 +49,7 @@ Community Engagement:
 
 Create educational resources and workshops to onboard new members and help them understand the DAO’s functionality.
 Develop engagement strategies to foster active participation and feedback.
+# contact
 For any inquiries or support related to the Student Union DAO project, please contact:
 
 Name: Bhargab muni
