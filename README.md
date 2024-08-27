@@ -24,13 +24,31 @@ plaintext
 Contract Address
 Note: The contract has not been deployed yet. You will need to deploy this smart contract to an Ethereum network to get an address. For testing, you can deploy it to a testnet like Rinkeby or Ropsten.
 
-Future Scope
-Advanced Proposal Features: Integrate features such as different proposal types (e.g., fund requests, policy changes).
-Role-Based Access: Introduce different roles and permissions within the DAO (e.g., committee members).
-Funding Mechanism: Implement mechanisms for funding proposals through donations or budget allocations.
-Enhanced Security: Conduct extensive security audits and add additional safeguards against potential vulnerabilities.
-User Interface: Develop a user-friendly web or mobile interface for easier interaction with the DAO.
-Contact
+# Future Scope
+Advanced Proposal Features:
+
+Introduce support for different types of proposals, such as budget requests, policy changes, and event planning.
+Implement a tiered approval process based on the nature of the proposal.
+Role-Based Access Control:
+
+Develop role-based permissions to define different levels of authority within the DAO, such as committee members, treasurers, or event coordinators.
+Create a voting system with weighted votes for different roles.
+Funding Mechanism:
+
+Integrate funding mechanisms such as donations, membership fees, or a treasury fund to support proposal execution.
+Implement financial tracking and reporting features.
+Enhanced Security Measures:
+
+Conduct thorough security audits to identify and address vulnerabilities.
+Implement additional security features such as multi-signature approvals or time locks for critical actions.
+User Interface Development:
+
+Develop a web or mobile application to provide a user-friendly interface for interacting with the DAO.
+Include features like proposal submission forms, voting dashboards, and notifications.
+Community Engagement:
+
+Create educational resources and workshops to onboard new members and help them understand the DAO’s functionality.
+Develop engagement strategies to foster active participation and feedback.
 For any inquiries or support related to the Student Union DAO project, please contact:
 
 Name: Bhargab muni
