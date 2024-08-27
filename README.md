@@ -22,7 +22,7 @@ plaintext
 +----------------+       +-----------------+       +----------------+
 ```
 Contract Address
-Note: The contract has not been deployed yet. You will need to deploy this smart contract to an Ethereum network to get an address. For testing, you can deploy it to a testnet like Rinkeby or Ropsten.
+Note: The contract has not been deployed yet. You will need to deploy this smart contract to an Ethereum network to get an address. For testing, you can deploy it to a testnet like Rinkeby or Ropsten.(need to be done)
 
 # Future Scope
 Advanced Proposal Features:
