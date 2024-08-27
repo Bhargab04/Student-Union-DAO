@@ -1,4 +1,5 @@
 Vision
+
 The Student Union DAO aims to create a decentralized platform that empowers students to manage their own affairs. By leveraging blockchain technology, this platform enables transparent proposal creation, voting, and execution, fostering a more democratic and participatory environment within student unions.
 Contract Address
 Note: The contract has not been deployed yet. You will need to deploy this smart contract to an Ethereum network to get an address. For testing, you can deploy it to a testnet like Rinkeby or Ropsten.
