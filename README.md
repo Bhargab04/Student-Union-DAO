@@ -4,8 +4,7 @@ The Student Union DAO aims to create a decentralized platform that empowers stud
 
 Flowchart
 plaintext
-Copy code
-+----------------+       +-----------------+       +----------------+
+```flow +----------------+       +-----------------+       +----------------+
 | Student Joins  |       | Create Proposal |       | Vote on        |
 | Union          | ----> |                 | ----> | Proposal       |
 +----------------+       +-----------------+       +----------------+
@@ -21,6 +20,7 @@ Copy code
 | Execute        |       | Proposal        |       | Proposal       |
 | Proposal       |       | Execution      |       | Results        |
 +----------------+       +-----------------+       +----------------+
+```
 Contract Address
 Note: The contract has not been deployed yet. You will need to deploy this smart contract to an Ethereum network to get an address. For testing, you can deploy it to a testnet like Rinkeby or Ropsten.
 
