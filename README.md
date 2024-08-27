@@ -1,4 +1,6 @@
 # Student Union DAO
+![Screenshot_27-8-2024_173126_www bing com](https://github.com/user-attachments/assets/f60964df-5037-4e65-9216-d8078f977ca5)
+
 Vision
 The Student Union DAO aims to create a decentralized platform that empowers students to manage their own affairs. By leveraging blockchain technology, this platform enables transparent proposal creation, voting, and execution, fostering a more democratic and participatory environment within student unions.
 
