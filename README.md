@@ -3,6 +3,38 @@
 
 Vision
 The Student Union DAO aims to create a decentralized platform that empowers students to manage their own affairs. By leveraging blockchain technology, this platform enables transparent proposal creation, voting, and execution, fostering a more democratic and participatory environment within student unions.
+# features:
+Features Inside the Project:
+Membership System:
+
+Join the Union: A system where students can easily sign up to become members of the DAO (Decentralized Autonomous Organization), giving them the ability to participate in decisions and activities.
+Proposal Creation:
+
+Suggest Ideas: A feature that allows members to create and submit proposals for new ideas, events, or changes within the union.
+Discussion Forum:
+
+Talk About Proposals: A space where members can discuss and debate proposals before voting, helping everyone understand the ideas better.
+Voting Mechanism:
+
+Token-Based Voting: A system where members can vote on proposals using digital tokens, making the decision-making process inclusive and fair.
+Smart Contracts:
+
+Automatic Execution: Use of smart contracts to automatically carry out approved proposals, such as organizing an event or reallocating funds, without the need for manual intervention.
+Blockchain Recording:
+
+Secure Record-Keeping: All proposals, votes, and actions are recorded on the blockchain, ensuring that the entire process is transparent and tamper-proof.
+Proposal Tracking:
+
+Follow Progress: A feature that lets members track the status of proposals, from submission to discussion, voting, and execution.
+Resource Management Dashboard:
+
+Manage Funds and Resources: A dashboard that shows how funds and resources are being allocated and used, helping ensure they are managed efficiently.
+Global Collaboration Tools:
+
+Connect with Others: Tools that allow students from different institutions and regions to collaborate, share ideas, and work together on proposals.
+Educational Modules:
+
+Learn While Participating: Built-in resources and tutorials to help students learn about blockchain technology, decentralized systems, and how to effectively participate in the DAO.
 
 Flowchart
 plaintext
