@@ -36,7 +36,7 @@ Educational Modules:
 
 Learn While Participating: Built-in resources and tutorials to help students learn about blockchain technology, decentralized systems, and how to effectively participate in the DAO.
 
-Flowchart
+# Flowchart
 plaintext
 ```flow +----------------+       +-----------------+       +----------------+
 | Student Joins  |       | Create Proposal |       | Vote on        |
